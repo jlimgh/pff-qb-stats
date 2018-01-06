@@ -1,0 +1,16 @@
+
+.player {
+	color: red;
+}
+
+small {
+	color: lightgrey;
+}
+
+li {
+	list-style-type: none;
+}
+
+div .qb-stats {
+	margin-top: 18px;
+}
